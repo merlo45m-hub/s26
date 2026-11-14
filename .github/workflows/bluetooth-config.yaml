@@ -1,0 +1,7 @@
+bluetooth:
+  profile: HID
+  version: 4.x
+  pairing: SSP
+  data_rate_mbps: 2
+  sensor_update_rate_hz: 100
+  gyro_range_dps: 2000
